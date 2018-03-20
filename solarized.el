@@ -144,8 +144,9 @@ Alpha should be a float between 0 and 1."
           ;; emphasized content
           (s-base01    "#586e75")
           ;; primary content
-          (s-base00    "#657b83")
-          (s-base0     "#839496")
+          ;; im fucking blind
+          (s-base00    "#eeeeee")
+          (s-base0     "#ffffff")
           ;; comments
           (s-base1     "#93a1a1")
           ;; background highlight light
